@@ -7,8 +7,8 @@ Dead-letter-queue-example
     Build & Run Consumer & Producer-      
     
     
- a.) mvn clean package spring-boot:repackage     
- b.) java -jar -Dserver.port={port} /target/{jarFileName}     
+    a.) mvn clean package spring-boot:repackage     
+    b.) java -jar -Dserver.port={port} /target/{jarFileName}     
  
   Note - Default port is 8080. Please change it in any one app.     
   
