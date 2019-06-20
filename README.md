@@ -12,7 +12,7 @@ Dead-letter-queue-example
  
   Note - Default port is 8080. Please change it in any one app.     
   
-  Queues - 
+  Queues -     
   a.) sms (Receives messaged for processing)    
   b.) sms-dead-letter-queue (Contains messages rejected by sms queue, will be persisted in RMQ until the messages are purged explicitly)    
   
