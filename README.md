@@ -4,7 +4,7 @@ Dead-letter-queue-example
  RabbitMQ integration made easy with Spring-boot AMQP.
  
 
-    Build & Run Consumer & Producer-
+    Build & Run Consumer & Producer-    
  a.) mvn clean package spring-boot:repackage
  b.) java -jar -Dserver.port={port} /target/{jarFileName}
  
